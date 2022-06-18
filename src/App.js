@@ -9,7 +9,7 @@ function App() {
     "total_results": 10,
     "data": [
     {
-    "profile_image_url": "/assets/b_images/main/models/profile/profile1654603511.jpg",
+    "profile_image_url": "://gaadiwhttpsaadi.com/wp-content/uploads/2019/12/jeep-compass-electric-1.jpg",
     "v_model_image": "/assets/b_images/main/models/profile/profile1654603511.jpg",
     "v_model_id": 562,
     "v_model_slug": "mt",

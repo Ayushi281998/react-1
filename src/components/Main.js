@@ -13,8 +13,9 @@ function Main({props}) {
             return (
               <>
               <div className='main_div'>
-              New Car 
-      </div>
+              <img src={parameter.profile_image_url} alt="image" />
+              <h3>{parameter.v_model_display_name}</h3>
+              </div>
               </>
             )
           })
